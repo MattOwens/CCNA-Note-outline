@@ -56,7 +56,7 @@ Before you begin, make sure you have the following installed and ready.
 
 ---
 
-## 🚀 How to Use
+## How to Use
 
 Follow these steps exactly to generate your vault.
 
