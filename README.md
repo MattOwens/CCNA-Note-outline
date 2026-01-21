@@ -88,7 +88,7 @@ Execute the script by typing the following command and pressing Enter.
 `python3 CCNA_Vault_Generator.py`
 
 # If the above doesn't work, try this (common on Windows)
-`python CCNA_Vault_Generator.pyy`
+`python CCNA_Vault_Generator.py`
 
 You will see the script print out a log of all the folders and files it is creating. Once it says "Vault creation complete!", you are done with this step. A new folder named CCNA 200-301 has been created in the same location as the script.
 
